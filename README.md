@@ -22,6 +22,5 @@ Aspiring AI/ML Engineer
 <img height="30" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 
 ![Preetam's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&theme=dark&show_icons=true&&hide=issues,contribs)
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Preetam%20Tony%20J?theme=dark&font=Gafata&ext=heatmap)](https://leetcode.com/u/Preetamtonyj/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Preetamtonyj?ext=contest&theme=dark)](https://leetcode.com/u/Preetamtonyj/)
 [![Preetam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
