@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Preetam Tony J
 
 Aspiring AI/ML Engineer
-<img align="right" width="370" height="290" src="https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png">
+<img align="right" width="370" height="290" src="https://media.licdn.com/dms/image/v2/D5603AQG9lsxx-K0PGw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1727789437962?e=2147483647&v=beta&t=1aEZGsBGJsPyrGvR88rVTrk1h-CgqfK_1sMqqmwVJmc">
 - 🔭 Here's my [portfolio](https://preetamtonyportfolio.netlify.app/)                                                 
 - 🌱 I'm currently learning DL,LLM,FullStack
 - 👯 I'm looking to collaborate on ML/AI projects
